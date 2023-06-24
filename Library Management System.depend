@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1687625802 source:c:\users\atauz\onedrive\desktop\library management system\library management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"heading.h"
+	"login.h"
+	"mmenue.h"
+
+1687536313 c:\users\atauz\onedrive\desktop\library management system\library management system\heading.h
+	<stdio.h>
+	<stdlib.h>
+
+1687627212 c:\users\atauz\onedrive\desktop\library management system\library management system\login.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687626453 c:\users\atauz\onedrive\desktop\library management system\library management system\mmenue.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
